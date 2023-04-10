@@ -1,1 +1,2 @@
-# team6-project-1
+Airbnb: European City Comparison (Amsterdam, London and Paris)
+
